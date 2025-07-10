@@ -2,7 +2,7 @@
 
 Modern ve kullanıcı dostu bir chatbot uygulaması. AI destekli konuşma deneyimi sunan bu proje, gelişmiş doğal dil işleme teknolojileri kullanarak akıllı yanıtlar üretir.
 
-![Chatbot Demo](./assets/demo.gif)
+![Chatbot Demo](./images/chat-bot.gif)
 
 ## 🚀 Özellikler
 
@@ -16,8 +16,8 @@ Modern ve kullanıcı dostu bir chatbot uygulaması. AI destekli konuşma deneyi
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  <img src="./assets/screenshot-1.png" alt="Ana Ekran" width="300"/>
-  <img src="./assets/screenshot-2.png" alt="Konuşma Ekranı" width="300"/>
+  <img src="./images/anasayfa.png" alt="Ana Ekran" width="300"/>
+  <img src="./images/chat-screen.png" alt="Konuşma Ekranı" width="300"/>
 </div>
 
 ## 🛠️ Teknolojiler
